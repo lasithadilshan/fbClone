@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fb-clone-286cb": {
+      "hosting": {
+        "fbClone": [
+          "fb-clone-286cb"
+        ]
+      }
+    }
+  }
+}
